@@ -1,2 +1,1 @@
-# Crud-post
-my first project
+# crud-posts
